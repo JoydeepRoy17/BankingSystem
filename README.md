@@ -1,18 +1,16 @@
-<h1>Banking System</h1>
-Welcome to the Banking System project! This Java-based application allows you to
-manage user accounts, perform transactions,and ensure the security of financial data.
+# Banking System
 
-<h2>Features</h2>
+## Features
 
-User Registration & Login
-Account Creation
-Debit and Credit Transactions
-Money Transfer Between Accounts
-Balance Inquiry
-Robust Security Measures
+* User Registration & Login
+* Account Creation
+* Debit and Credit Transactions
+* Money Transfer Between Accounts
+* Balance Inquiry
+* Robust Security Measures
 
+## Technologies Used
 
-<h2>Technologies Used </h2>
-Java
-JDBC (Java Database Connectivity)
-MySQL (or your preferred database system)
+* Java
+* JDBC (Java Database Connectivity)
+* MySQL (or your preferred database system)
